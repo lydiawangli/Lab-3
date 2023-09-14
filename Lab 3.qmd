@@ -1,7 +1,9 @@
 ---
 title: "Lab 3"
 author: "Lianyan Wang"
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 
 ```{r}
